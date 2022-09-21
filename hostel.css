@@ -1,0 +1,277 @@
+.body h1 h2 h3 h4 p b{
+    font-family: 'Open Sans', sans-serif;
+}
+.ink{
+    background-color: #F3F7FA;
+}
+.clearfix{
+    content: "";
+    height: 100%;
+    width: 100%;
+}
+
+.banner{
+    background: url(img/newone.png) center center no-repeat;
+    padding: 200px;
+    position: relative;
+    z-index: 1;
+    color: #5C909E;
+    text-align: left;
+    
+}
+.banner::after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    
+    background: rgba(0 , 0, 0, 0.8);
+    z-index: -1;
+}
+.myone{
+    margin-top: -77px;
+    margin-left: -60px;
+}
+.paragraph{
+    margin-top: -20px;
+    margin-left: 60px;
+    color: white;
+}
+.button{
+    text-align: center;
+    margin-left: -500px;
+}
+.about{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: #f0ffc0;
+}
+.package{
+    text-align: center;
+    padding: 40px;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.room1{
+    background: url(img/room1.jpg);
+    padding: 100px;
+    
+
+
+}
+.mygav{
+    padding: 50px;
+}
+.room2{
+    background: url(img/room2.jpg);
+    padding: 100px;
+}
+.room3{
+    background: url(img/room3.jpg);
+    padding: 100px;
+}
+.room4{
+    background: url(img/room4.jpg);
+    padding: 100px;
+}
+.room5{
+    background: url(img/room5.jpg);
+    padding: 100px;
+}
+.room6{
+    background: url(img/room6.jpg);
+    padding: 100px;
+}
+.mysec{
+    padding: 40px 0 ;
+}
+.info{
+    text-align: center;
+    padding: 20px;
+    color: #33A5FF;
+}
+.logo{
+    font-size: 30px;
+    color: #474D50;
+    text-align: center;
+    padding: 10px;
+}
+.packageforce{
+    text-align: center;
+    
+}
+.spin{
+    border: 2px  solid rgba(0 , 0, 0, 0.2);
+    background-color: #F3F7FA;
+    border-radius: 10px;
+
+}
+.again{
+    padding: 20px;
+    padding-bottom: 50px;
+}
+.imageservice{
+    height: auto;
+    width: auto;
+    text-align: right;
+    
+}
+.services{
+    text-align: left;
+    font-size: 15px;
+    color: white;
+}
+.team{
+    border: 2px  solid rgba(0 , 0, 0, 0.2);
+    background-color: #2792C8;
+    border-radius:200px 0;
+    margin: 0 173px;
+    padding: 30px;
+
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.firstperson img{
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
+.team-management{
+    padding: 50px;
+    
+}
+.nai{
+    background-color: #DFE0F0;
+    border: 2px  solid rgba(0 , 0, 0, 0.2);
+    border-radius: 40px 0;
+    padding: 20px;
+}
+.personinfo h2{
+    
+    font-size: 20px;
+}
+.personinfo p b{
+    font-size: 15px;
+    margin-top: 20px;
+}
+.intro{
+    padding: 5px;
+    padding-top: 70px;
+}
+.nai1{
+    font-size: 40px;
+}
+.w1{
+    color: #2833EE;
+    font-size: 2px;
+    background-color: #2833EE;
+    margin: 0 150px;
+}
+.btn{
+    padding: 0 -5px;
+    padding-top: -10px;
+    margin-top: -7px;
+}
+.two{
+    margin-top: -8px;
+}
+.nai2{
+    background-color: #5960DB;
+    color: white;
+}
+.nai3{
+    background-color: #44465F;
+    color: #F1EDF5;
+}
+.nai4{
+    background-color: #9F35F8;
+    color: #D5CBDE;
+}
+.myfoo{
+    background-color: #DFE0F0;
+}
+.lidetails{
+    
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-decoration: none;
+    padding-left: 150px;
+    font-size: 20px;
+}
+.no{
+    font-size: 18px;
+}
+.copy{
+    text-align: right;
+    padding-bottom: 30px;
+    color: rgb(219, 87, 87);
+}
+.myview{
+    color: black;
+}
+.myforce{
+    margin-top: 15px;
+}
+.oneteam{
+    margin: 15px 0;
+}
+.myteam{
+    border: 2px  solid rgba(0 , 0, 0, 0.2);
+    background-color: #2792C8;
+    border-radius:200px 0;
+    margin: 0 173px;
+    padding: 30px;
+    
+
+    
+    
+}
+.pteam{
+    border: 2px  solid rgba(0 , 0, 0, 0.2);
+    background-color: #2792C8;
+    border-radius:0 195px ;
+    margin: 0 173px;
+    padding: 30px;
+    margin-top: 15px;
+   
+    
+}
+.anyone{
+    margin: 15px 0;
+}
+.myc{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+.mybtn{
+    font-size: 19px;
+    padding-bottom: 15px;
+    margin: 0 20px;
+    
+}
+.btn2{
+    font-size: 19px;
+    padding: 10px 30px;
+}
+btn12{
+    color: white;
+    background-color: white;
+}
+.myclass{
+    color: white;
+    background-color: #F3F7FA;
+    font-size: 20px;
+    padding-top: 5px;
+}
+.contact{
+    padding: 30px;
+}
+.myn{
+    font-size: 20px;
+}
